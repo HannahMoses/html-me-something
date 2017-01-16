@@ -1,19 +1,27 @@
-
 body {
     background-color: pink;
 }
 
 h1 {
-    color: red;
+    color:rgb(198,12,100);
     text-align: center;
-   }
-   h2{color: black;
-    text-align: center;
-     }
-   h3{color: black;
-    text-align: right;
     }
+h2 {
+    color:rgb(198,12,100);
+    text-align: center;
+    }
+p1 {
+    color:red;
+    text-align: left;
+   }
+
 p {
-    font-family: Times new roman;
-    font-size: 22px;
+    color:black;
+    text-align: left;
+   }
+header{
+    padding-top:1.7em;
+    padding-right:0px;
+    padding-bottom:1.7em;
+    padding-left:0px;
 }
