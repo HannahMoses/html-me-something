@@ -1,0 +1,44 @@
+
+body {
+    background-color: pink;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+   }
+   h2{color: black;
+    text-align: center;
+     }
+   h3{color: black;
+    text-align: right;
+    }
+p {
+    font-family: Times new roman;
+    font-size: 22px;
+}
+.div1{
+border:1px solid #a9c9e2;background:#e8f5fe}
+table {
+	overflow:hidden;
+	border:1px solid indigo;
+	background:white;
+	width:70%;
+	margin:5% auto 0;
+	
+
+}
+div2{ display:inline;}
+th, td {text-align:center; }
+	
+th {
+	color: white;
+	background:slateblue;
+	padding:18px 28px 18px;
+	padding-top:22px; 
+}
+	
+td {
+	border-top:10px; 
+	border-right:1px;
+}
