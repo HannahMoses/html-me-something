@@ -22,7 +22,9 @@ div {
     margin-bottom: 100px;
     margin-right: 500px;
     margin-left: 400px;
-    background-color: pink;
+    background-color:rgb(198,12,100);
+    padding : 12px 15px 12px 15px;
+
 }
 
 p {
